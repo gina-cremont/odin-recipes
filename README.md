@@ -5,3 +5,8 @@ Finishing the html lesson on the foundations course in the odin-project. This pr
     - Basic HTML code 
     - Folder hierarchies 
     - Absolute and relative paths 
+
+- Making it Stardew Valley themed
+
+Attributions:
+Lasagna.png, http://freebie.photography/about.htm
