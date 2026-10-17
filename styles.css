@@ -1,0 +1,21 @@
+.severe-alert {
+    color: #F54927;
+}
+
+#title {
+    background-color: blue;
+}
+
+.header {
+    background-color: coral;
+    font-family: Helvetica;
+    font-size: 45px;
+    text-align: center;
+}
+
+/* styles.css */
+
+.ancestor .contents {
+    color: orange;
+  /* some declarations */
+}
